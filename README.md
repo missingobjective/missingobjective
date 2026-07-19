@@ -1,12 +1,14 @@
-## Hi there, I'm dtr69 👋
+<h1 align="center">dtr69 // missing_objective</h1>
 
-Amateur reverse engineer                                                                                                                     
-Self-Taught
+<p align="center">
+   <b>Reverse • Software • Deploy</b><br><br>
+   <a href="https://discord.com/users/720406356464500825">
+     <img src="https://lanyard.cnrad.dev/api/720406356464500825?theme=dark" />
+   </a>
+</p>
 
-**Fuck web development.**
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=missingobjective&theme=dark&hide_border=true" />
+</p>
 
-![GitHub stats](https://github-readme-stats.zohan.tech/api?username=missingobjective&theme=flag-jolly)
-
-[![discord](https://img.shields.io/badge/Discord-4p3t-white.svg)](https://discord.com/users/665220507724939295)
-[![cosine](https://img.shields.io/badge/Cosine-white.svg)](https://usecosine.vercel.app)
-[![nohello](https://img.shields.io/badge/NoHello-white.svg)](https://nohello.net)
+---
